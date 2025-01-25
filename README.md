@@ -1,3 +1,4 @@
+This is new line for test 
 Created Pipeline View
 Addressbook Tutorial
 ====================
