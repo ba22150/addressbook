@@ -1,4 +1,3 @@
-this is my testing work
 Created Pipeline View
 Addressbook Tutorial
 ====================
