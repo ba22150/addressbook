@@ -1,4 +1,4 @@
-test2
+Pipeline TEST
 Created Pipeline View
 Addressbook Tutorial
 ====================
